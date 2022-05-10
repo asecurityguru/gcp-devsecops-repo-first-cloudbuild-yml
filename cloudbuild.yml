@@ -1,0 +1,3 @@
+steps:
+  - name: 'ubuntu'
+    args: ['echo','Hello Security Gurus!! This is our first build run in Google Cloud Platform']
